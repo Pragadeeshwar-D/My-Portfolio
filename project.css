@@ -8,10 +8,12 @@
 
 .projects-title h2 {
     font-size: 2.5rem;
-    color: #F4B02C;
+     color: #ffae00;
     margin-bottom: 40px;
 }
-
+#he{
+     color: #ffae00;
+}
 .project-cards {
     display: flex;
     justify-content: space-around;
